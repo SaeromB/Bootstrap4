@@ -1,0 +1,4 @@
+<a data-toggle="modal" data-target="#ReserveModel" role="button" class="btn btn-warning btn-block"
+                        data-toggle="tooltip" data-html="true" title="Or Call us at <br><strong>+852 12345678</strong>"
+                        data-placement="bottom" href="#raservationform">Reserve Table</a>*/
+                </div>
